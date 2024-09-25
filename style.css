@@ -2,10 +2,13 @@ body {
     background-color: bisque;
 }
 
+section {
 h2 {
-    color: pink;
+    color:blueviolet;
+}  
+h4 {
+    color: violet;
+}
 }
 
-Prvni strana {
-    color: aquamarine;
-}
+
