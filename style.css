@@ -2,13 +2,9 @@ body {
     background-color: bisque;
 }
 
-section {
-h2 {
-    color:blueviolet;
-}  
-h4 {
-    color: violet;
-}
+img {
+    width: 150px;
+    height: 200px;
 }
 
 
