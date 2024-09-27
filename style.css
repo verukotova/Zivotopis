@@ -27,12 +27,40 @@ header {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 
+    display: flex;
     align-items: center;
+    
 }
 
+.profile-img {
+    flex: 0 0 15%;
+    max-width: 15%;
+}
+
+.profile-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.profile-name {
+    flex: 1;
+    text-align: center;
+}
+
+.profile-name h1 {
+font-size: 24px;
+margin-bottom: 5px;
+}
+
+.profile-name p {
+    font-size: 18px;
+}
+
+/*
 header img {
-    width: 20%;
-    height: 20%;
+    width: 15%;
+    height: 15%;
     border-radius: 8%;
 }
 
@@ -47,7 +75,7 @@ header p {
     font-size: 18px;
     color: white;
 }
-
+*/
 
 
 /* Ostatní sekce */
