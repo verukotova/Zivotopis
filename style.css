@@ -33,17 +33,13 @@ header {
 }
 
 header img {
-    width: 50px;
+    width: 5px;
     height: auto;
     border-radius: 20px;
     padding-right: 40px;
 }
 
-/*.profile img {
-    width: 80px;
-    height: auto;
-    border-radius: 50%;
-}*/
+
 
 .info {
     text-align: right;
