@@ -61,7 +61,7 @@ section {
 section h3 {
     font-size: 22px;
     margin-bottom: 10px;
-    color: #333;
+    color: #408db3;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 5px;
 }
@@ -87,7 +87,7 @@ strong {
 }
 
 .School ul {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 
 /* Tabulka */
@@ -98,7 +98,7 @@ strong {
 }
 
 .languages table, th, td {
-    border: 1px solid #408db3;
+    border: 1px solid #ddd;
 }
 
 .languages th, td {
@@ -120,7 +120,31 @@ strong {
 }
 
 
+/* Kontakty */
 
+.contacts ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.contacts ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.contacts ul li a {
+    text-decoration: none;
+    color: #0073b1;
+}
+
+.contacts ul li a:hover {
+    text-decoration: underline;
+}
+
+.contacts ul li {
+    font-size: 16px;
+    color: #408db3;
+}
 
 
 /* Patička */
