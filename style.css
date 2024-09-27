@@ -25,9 +25,10 @@ header {
     float: left;
 }
 
+/* Ostatní sekce */
 
-box {
-padding: 30px;
+Prace {
+background-color: #90908a;
 }
 
 
