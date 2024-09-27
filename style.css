@@ -86,13 +86,35 @@ strong {
     font-weight: bold;
 }
 
+.languages table {
+    width: 100%;
+    border-collapse: collapse;
+}
 
-h2 {
-        margin-top: 0px;
-        margin-bottom: 100px;
-    }
+.languages table, th, td {
+    border: 1px solid #ddd;
+}
 
-/* Tabulka jazyky */
+.languages th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+.languages th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.languages td {
+    font-size: 16px;
+}
+
+.languages tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+
+/* Tabulka jazyky 
 
 table {
     width: 100%;
