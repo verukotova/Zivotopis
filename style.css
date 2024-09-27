@@ -21,26 +21,23 @@ body {
 header {
     background-color: #408db3;
     color: white;
-    text-align: center;
     padding: 20px;
 
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 
-    display: flex;
     align-items: center;
 }
 
 header img {
     width: 20%;
     height: 20%;
-    padding-right: 20px;
-    border-radius: 10%;
+    border-radius: 8%;
 }
 
 header h1 {
-    text-align: center;
+    text-align: right;
     font-size: 24px;
     margin-bottom: 5px;
 }
