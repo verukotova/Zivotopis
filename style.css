@@ -11,6 +11,12 @@ body {
 
 /* Hlavička */
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header {
     background-color: #408db3;
     color: white;
