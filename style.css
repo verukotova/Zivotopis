@@ -41,25 +41,17 @@ header img {
 
 header h1 {
     text-align: center;
+    font-size: 24px;
+    margin-bottom: 5px;
 }
 
 header p {
     text-align: right;
-}
-
-.info {
-    text-align: right;
-}
-
-.info h1 {
-font-size: 24px;
-margin-bottom: 5px;
-}
-
-.info p {
     font-size: 18px;
     color: white;
 }
+
+
 
 /* Ostatní sekce */
 
